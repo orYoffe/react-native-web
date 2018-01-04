@@ -7,9 +7,9 @@
 
 * **High-quality user interfaces**: React Native for Web makes it easy to
 create [fast](packages/benchmarks/README.md), adaptive web UIs in
-JavaScript. It provides native-like interactions, optimized vendor-prefixed
-styles, support for all interaction types (touch, mouse, keyboard), accessible
-experiences, built-in support for RTL layout, and integrates with React Dev
+JavaScript. It provides native-like interactions, accessible experiences,
+support for all interaction types (touch, mouse, keyboard), built-in support
+for RTL layout, optimized vendor-prefixed styles, and integrates with React Dev
 Tools.
 
 * **Write once, render anywhere**: React Native for Web interoperates with
@@ -18,10 +18,14 @@ React Native API. You can develop new components for native and web without
 rewriting existing code. React Native for Web can also render to HTML and
 critical CSS on the server using Node.js.
 
-React Native for Web is used extensively in production by [Twitter
-Lite](https://mobile.twitter.com). The library's performance was experimentally
-validated at scale including in emerging markets, and an independent audit
-found Twitter Lite to be Twitter's most accessible app.
+Who is using React Native for Web? [Twitter Lite](https://mobile.twitter.com),
+[Major League Soccer](https://matchcenter.mlssoccer.com), [The
+Times](https://github.com/newsuk/times-components), [React Native's
+documentation](http://facebook.github.io/react-native/).
+
+The library's performance was experimentally validated at scale by [Twitter
+Lite](https://mobile.twitter.com), including for users in emerging markets, and
+an independent audit found Twitter Lite to be Twitter's most accessible app.
 
 Browser support: Chrome, Firefox, Safari >= 7, IE 10, Edge.
 
@@ -42,6 +46,9 @@ website][website-url].
 Please refer to the [React Native documentation][react-native-url] for details
 about its design, the [Gesture Responder system](https://facebook.github.io/react-native/docs/gesture-responder-system.html),
 and [animations](https://facebook.github.io/react-native/docs/animations.html).
+
+Watch this presentation to learn more: [React Native for web and
+beyond](https://www.youtube.com/watch?v=tFFn39lLO-U).
 
 ### Installation
 
